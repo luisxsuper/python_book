@@ -1,6 +1,6 @@
 # python_book
 
-Music Player for Google Drive
+Music Player for Google Drive Luis Maron
 =============================
 
 Music Player for Google Drive is a simple and lightweight online music player for your audio files stored in Google Drive. Its is entirely client side and does not require any server side component.
